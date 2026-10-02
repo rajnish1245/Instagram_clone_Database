@@ -1251,5 +1251,18 @@ business-analytics
 ```
 
 ---
+# 👨‍💻 Author
+
+**Rajnish Kumar**
+
+Computer Science Engineer
+
+Data Analyst | Excel | SQL | Python | Power BI
+
+GitHub:https://github.com/rajnish1245
+
+LinkedIn:https://www.linkedin.com/in/rajnish-kumar-a33889230/
+
+⭐ If you found this project helpful, don't forget to Star this repository.
 
 > **Project takeaway:** This project demonstrates how a real-world social-media workflow can be converted into a relational database and then analyzed using practical SQL queries.
